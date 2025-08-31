@@ -74,7 +74,7 @@ It involves analyzing housing features, performing **Exploratory Data Analysis (
 ## 📧 Contact
 
 👤 **Prajapati**
-📩 Reach me at: *\[your email or LinkedIn/GitHub profile]*
+
 
 ---
 
